@@ -1,0 +1,7 @@
+{
+  "name": "Fast HRM",
+  "description": "A comprehensive Human Resource Management system for 247 Express Vietnam, featuring employee lifecycle management, recruitment (ATS), onboarding, attendance (VN Law compliant), payroll, and performance tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
